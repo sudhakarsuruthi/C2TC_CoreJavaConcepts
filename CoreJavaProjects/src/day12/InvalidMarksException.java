@@ -1,5 +1,6 @@
 package day12;
-public class InvalidMarksException extends Exception{
+
+public class InvalidMarksException extends Exception {
 
 	public InvalidMarksException() {
 		super();
